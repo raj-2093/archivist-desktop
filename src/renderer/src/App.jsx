@@ -14,6 +14,7 @@ export default function App() {
           <h1>Hello </h1>
           <span>Niche</span>
           <span>Niche2</span>
+          <span>Niche3</span>
         </Layout>
       </ThemeProvider>
     </>
